@@ -1,4 +1,10 @@
-import java.util.Scanner;
+/**
+ * Aluno: Leonardo Buldrini Marques
+ * TI2 - Exercício 1
+ * Data de entrega: 02/03/2023
+ */
+
+import java.util.*;
 
 class SomarDoisInteiros {
 	
